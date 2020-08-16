@@ -9,6 +9,6 @@ public class Dog {
 
     }
     void  sleeping(){
-        
+
     }
 }
